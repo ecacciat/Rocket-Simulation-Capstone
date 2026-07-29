@@ -22,6 +22,9 @@ tolerance, the fuel mass test simply prints whether the fuel mass drops below ze
 makes sure that the rocket does not exceed the speed of light, peak acceleration of the rocket is looked 
 at, and the last step is looking at if there are any duplicate timestamps. 
 
+## Output Visuals 
+<img width="1000" height="800" alt="Figure_1" src="https://github.com/user-attachments/assets/f79ecf70-9027-49af-879c-eb2391e35578" />
+
 ## System Compiling 
   For the C++ physics file, it is compiled using g++ with a -O3 optimization flag. 
 
